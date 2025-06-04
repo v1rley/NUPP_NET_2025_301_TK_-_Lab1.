@@ -1,0 +1,6 @@
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.common\obj\Debug\Zoo.common.csproj.AssemblyReference.cache
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.common\obj\Debug\Zoo.common.csproj.CoreCompileInputs.cache
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.common\bin\Debug\Zoo.common.dll
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.common\bin\Debug\Zoo.common.pdb
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.common\obj\Debug\Zoo.common.dll
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.common\obj\Debug\Zoo.common.pdb

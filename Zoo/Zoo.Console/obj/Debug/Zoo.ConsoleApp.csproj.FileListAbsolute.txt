@@ -1,0 +1,9 @@
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.Console\obj\Debug\Zoo.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.Console\obj\Debug\Zoo.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.Console\obj\Debug\Zoo.Console.exe
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.Console\obj\Debug\Zoo.Console.pdb
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.Console\bin\Debug\Zoo.Console.exe
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.Console\bin\Debug\Zoo.Console.pdb
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.Console\bin\Debug\Zoo.common.dll
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.Console\bin\Debug\Zoo.common.pdb
+C:\Users\_sh1nda\source\repos\Zoo\Zoo.Console\obj\Debug\Zoo.Cons.5AEB5F42.Up2Date

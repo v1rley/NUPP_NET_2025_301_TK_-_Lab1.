@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.common", "Zoo.common\Zoo.common.csproj", "{57D7C0F3-E8FC-4B17-85E6-C5F835F41DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.ConsoleApp", "Zoo.Console\Zoo.ConsoleApp.csproj", "{5E13CB67-D13E-49CA-BE5E-847DAD57B835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{E0517AE3-9E9F-4324-B517-634FFBAA6A45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57D7C0F3-E8FC-4B17-85E6-C5F835F41DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D7C0F3-E8FC-4B17-85E6-C5F835F41DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D7C0F3-E8FC-4B17-85E6-C5F835F41DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D7C0F3-E8FC-4B17-85E6-C5F835F41DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E13CB67-D13E-49CA-BE5E-847DAD57B835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E13CB67-D13E-49CA-BE5E-847DAD57B835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E13CB67-D13E-49CA-BE5E-847DAD57B835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E13CB67-D13E-49CA-BE5E-847DAD57B835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0517AE3-9E9F-4324-B517-634FFBAA6A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0517AE3-9E9F-4324-B517-634FFBAA6A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0517AE3-9E9F-4324-B517-634FFBAA6A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0517AE3-9E9F-4324-B517-634FFBAA6A45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E18C8B8B-7806-486E-B8D7-BBEBCD52DA26}
+	EndGlobalSection
+EndGlobal
